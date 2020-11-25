@@ -6,7 +6,7 @@ The link below gives you access to the raw simulated dataset of six Modulation S
 https://drive.google.com/drive/folders/12xLwqMX5bHuVn8n51ceyBCR982ji4A43?usp=sharing
 
 <h3>(2) SimModRecV1</h3>
-The following link contains i) The Automatic Modulation Recognition (AMR) model developed based on the modulation schemes in (1) above and the Minimum Phase Reconstruction Coefficients (MPRC) descriptor. ii) Sample Test Simulated Data. ii) MATLAB Script for testing the model
+The following link contains i) The Automatic Modulation Recognition (AMR) model developed based on the modulation schemes in (1) above and the Minimum Phase Reconstruction Coefficients (MPRC) descriptor. ii) Sample Simulation Test Data. ii) MATLAB Script for testing the model
 https://drive.google.com/drive/folders/1_nomajqOM737hle5uFzgCQQJMEzH3JPI?usp=sharing
 
 
